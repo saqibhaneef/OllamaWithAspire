@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OllamaWithAspire.AppHost/OllamaWithAspire.AppHost.csproj" />
+  <Project Path="OllamaWithAspire.ServiceDefaults/OllamaWithAspire.ServiceDefaults.csproj" />
+</Solution>
