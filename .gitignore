@@ -5,3 +5,4 @@
 /.vs/OllamaWithAspire.slnx
 /OllamaWithAspire.AppHost/obj
 /OllamaWithAspire.ServiceDefaults/obj
+/OllamaWithAspire.AppHost/bin/Debug/net10.0
